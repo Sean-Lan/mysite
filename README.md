@@ -13,8 +13,9 @@ This project serves as a biolerplate using django framework and nginx as the web
 
 ### Installation
 
-1. activate the virtaul environment: `source venv/bin/activate`
-2. install all the dependent packages: `pip install -r requirements.txt`
+1. create a virtual environment: `virtualenv venv`
+2. activate the virtaul environment: `source venv/bin/activate`
+3. install all the dependent packages: `pip install -r requirements.txt`
 
 ### Deploy
 

@@ -1,5 +1,5 @@
 # mysite: boilerplate project for django + uwsgi + nginx on Mac OS X
------
+
 This project serves as a biolerplate using django framework and nginx as the web server, with uwsgi to communicate. It's mainly for Mac OS X users, and not tested on Linux system. If you want it works on Linux system, you need to change some paths for the configuration files.
 
 ## Prerequisite

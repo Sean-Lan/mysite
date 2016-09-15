@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+*.log
+mysite_nginx.conf
+mysite_uwsgi.ini
+venv/*

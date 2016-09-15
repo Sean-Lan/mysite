@@ -23,7 +23,7 @@ This project serves as a biolerplate using django framework and nginx as the web
 
 ### Start Service
 
-Run `./start.sh`. It will start nginx and uwsgi. Visit [http://localhost:8888/]() to see the welcome page. All the uwsgi logs are in `uwsgi.log`.
+Run `./start.sh`. It will start nginx and uwsgi. Visit http://localhost:8888/ to see the welcome page. All the uwsgi logs are in `uwsgi.log`.
 
 ### Stop Service
 

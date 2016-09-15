@@ -6,7 +6,7 @@ This project serves as a biolerplate using django framework and nginx as the web
 
 1. python 2.7 & pip: `brew install python`
 2. nginx: `brew install nginx`
-3. virtualenv `pip install virtualenv`
+3. virtualenv: `pip install virtualenv`
 
 
 ## Usage

@@ -57,7 +57,7 @@ home            = $ROOT_PATH/../venv
 master          = true
 # maximum number of worker processes
 processes       = 10
-# the socket (use the full path to be safe
+# the socket (use the full path to be safe)
 socket          = /tmp/mysite.sock
 # ... with appropriate permissions - may be needed
 chmod-socket    = 664
